@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=6B8E23&center=true&vCenter=true&width=1580&lines=COMPANY+OF+HEROES+3+HACK+2026;INFINITE+RESOURCES+•+GOD+MODE;DOMINATE+THE+MEDITERRANEAN" alt="Company of Heroes 3 Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/060d81b8-1266-4675-89ab-99eaabda05e2" />
 </div>
 
 <br/>
